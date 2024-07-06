@@ -12,8 +12,8 @@ const initialState = {
       stock: 94,
       brand: "Apple",
       category: "smartphones",
-      thumbnail: "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-      images: ["/img1a.jpg"],
+      thumbnail: "https://tse1.mm.bing.net/th?id=OIP.oAIxA0fr7zzrxI_y2YP_eAHaHa&pid=Api&P=0&h=180",
+      images: ["https://tse1.mm.bing.net/th?id=OIP.oAIxA0fr7zzrxI_y2YP_eAHaHa&pid=Api&P=0&h=180"],
     },
     {
       id: 2,
@@ -27,7 +27,7 @@ const initialState = {
       brand: "Apple",
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-      images: ["/img2a.jpg"],
+      images: ["https://tse2.mm.bing.net/th?id=OIP.ABgVCRo3GdBEfu2YQuzr-AHaHa&pid=Api&P=0&h=180"],
     },
     {
       id: 3,
@@ -41,7 +41,7 @@ const initialState = {
       brand: "Samsung",
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      images: ["/img3a.jpg"],
+      images: ["https://tse2.mm.bing.net/th?id=OIP.vGjy8U2okifa24Cxy7rWVAHaIy&pid=Api&P=0&h=180"],
     },
     {
       id: 4,
@@ -54,7 +54,7 @@ const initialState = {
       brand: "OPPO",
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-      images: ["/img4a.jpg"],
+      images: ["https://tse1.mm.bing.net/th?id=OIP.hGm7B7ka6aFju8SR1fpUswHaKC&pid=Api&P=0&h=180"],
     },
     {
       id: 5,
@@ -68,7 +68,7 @@ const initialState = {
       brand: "Huawei",
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-      images: ["/img5a.jpg"],
+      images: ["https://tse3.mm.bing.net/th?id=OIP.hY3DSRHKTwW44F3nvihkdAHaHa&pid=Api&P=0&h=180"],
     },
   ],
 };
